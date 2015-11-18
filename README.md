@@ -1,4 +1,4 @@
-# exercises
+# Exercises
 Simple Exercises
 
-## pending
+## Pending
