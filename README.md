@@ -1,5 +1,4 @@
-# Exercises
-Simple Exercises
+# Simple Exercises
 
 ### The First One
 
