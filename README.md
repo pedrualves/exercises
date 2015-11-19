@@ -8,7 +8,7 @@ Create a class that implements the interface Solution and isUnique method, which
 
   input: "xptoyz", output: true
 
-  input: "xptopz", output: true
+  input: "xptopz", output: false
 
 ```java
   public interface Solution {
